@@ -6,7 +6,7 @@ print(x)
 
 y = x + 5
 print(y)
-z  = x + y
+z  = x + y7
 print(z)
 
 x = 9 #we can  value of defined   variable   ie. it is a mutable.
@@ -19,4 +19,8 @@ name1   =   name  + 'Gulve'
 print(name1)
 
 print(name[0])
-# String in python is imutable
+# String in python is imutable ie  once created string variable never change...
+
+# len():
+myname = 'nilesh gulve'
+len(myname)
