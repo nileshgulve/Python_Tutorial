@@ -42,7 +42,7 @@ name
 ['nilesh', 'saurabh', 'ashish', 'sai']
 nums
 [10, 20, 30, 40, 50]
-# append at the append
+# append at the end
 
 nums.insert(2,60)
 nums
